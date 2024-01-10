@@ -1,1 +1,11 @@
-{"title":"Project","scenes":[], "projectVersion": 24}
+{
+  "title": "test",
+  "scenes": [
+    {
+      "name": "test",
+      "uuid": "dff02ed2-3865-4a3d-8c61-5a691d2f5adb"
+    }
+  ],
+  "projectVersion": 24,
+  "lastOpenedScene": "\\Assets\\test.rogueScene"
+}
